@@ -1,0 +1,6 @@
+human;chimpanzee
+XMJYAUZ;MZJAWXU
+abcd;efgh
+abc;abc
+abd;gfd
+
